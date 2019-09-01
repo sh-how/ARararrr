@@ -1,6 +1,6 @@
-## Test Pages
-[EXAMPLE 1](https://sh-how.github.io/ARararrr/AR_in_10_lines.html)
-[EXAMPLE 2](#)
+## Examples
+1. [EXAMPLE 1](https://sh-how.github.io/ARararrr/AR_in_10_lines.html)
+2. [EXAMPLE 2](#)
 
 ## Welcome to GitHub Pages
 
